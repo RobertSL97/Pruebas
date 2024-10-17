@@ -30,7 +30,3 @@ Cada proyecto está organizado en su propio directorio, donde encontrarás:
 El propósito de este repositorio es mostrar mi progreso y habilidades en la Ciencia de Datos, y ofrecer ejemplos concretos de proyectos que aplican conceptos clave en este campo. Espero que estos trabajos sean útiles tanto para mí como para otros interesados en la Ciencia de Datos.
 
 ¡Gracias por visitar mi repositorio!
-
----
-
-Este archivo proporciona una introducción clara y detallada, explicando tanto los objetivos como las herramientas y tecnologías usadas. Puedes modificarlo según tus proyectos específicos.
